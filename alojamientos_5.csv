@@ -1,0 +1,6 @@
+id,nombre,domicilio,telefono,email,web,tipo,calle,altura,direccion,Long,Lat
+665,BOLIVAR,BOLIVAR 886,4361 5105,reservas@hotel-bolivar.com.ar,http://www.hotel-bolivar.com.ar/,Boutique,BOLIVAR,886,BOLIVAR 886,-58.373013,-34.618212
+664,SANTA MARIA DE LA SALUD,PERU 1022,4307-9593,info@paradorbue.com,http://www.paradorbue.com/,Boutique,PERU,1022,PERU 1022,-58.374235,-34.619917
+663,SPLENDID,BELGRANO AV. 2688,4943-0031,ventas@hotel-splendid.com.ar,http://www.hotel-splendid.com.ar/,Bed & Breakfast,BELGRANO ,2688,BELGRANO 2688,-58.403906,-34.614665
+662,LA CASA DEL MÉDICO,BELGRANO AV. 1235,4383-8414,info@lacasadelmedico.com.ar,WWW.LACASADELMEDICO.COM.AR,Hotel sindical,AV. BELGRANO ,1235,AV. BELGRANO 1235,-58.383766,-34.613187
+661,HOTEL 26 DE JULIO,HUMBERTO 1° 1712,4305-3030,hotel26dejulio@judiciales.org.ar,,Hotel sindical,HUMBERTO 1 ,1712,HUMBERTO 1 1712,-58.390315,-34.621526
